@@ -1,0 +1,24 @@
+internal class Program
+{
+    static void Main(string[] args)
+    {
+        ExibirMsg();
+        ExibirMsg();
+        ExibirMsg();
+        ExibirMsg();
+        ExibirMsg();
+
+        Console.ReadLine();
+    }
+
+    static void ExibirMsg()
+    
+    {
+                
+        Console.WriteLine("Este curso é show");
+        Console.WriteLine("Estou usando Funções");
+        Console.WriteLine("Bem vindo!");
+
+        Console.WriteLine("Dácio Araujo");  // texto string incluido depois de criar os 3 de cima
+        Console.WriteLine("fim");           // é só digitar aqui e ele incluira na tela do programa.
+            
